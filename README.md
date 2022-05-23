@@ -42,6 +42,8 @@ popper -l
 
 To go to the one of the pushed directories
 ```
+pwd
+/home/kpatronas/work
 popper -o
 1) /home/kpatronas/work
 2) /home/kpatronas
