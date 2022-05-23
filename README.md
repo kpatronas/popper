@@ -23,10 +23,13 @@ alias popper='source /bin/popper.sh'
 
 Navigate to a directory and enter
 ```
+pwd
+/home/kpatronas
 popper -u
 ```
 Navigate to another directory and enter again
 ```
+cd /home/kpatronas/work
 popper -u
 ```
 
@@ -42,7 +45,9 @@ To go to the one of the pushed directories
 popper -o
 1) /home/kpatronas/work
 2) /home/kpatronas
-#?
+#? 2
+pwd
+/home/kpatronas
 ```
 Enter the number of the directory and press enter, now you should be in the selected directory
 
